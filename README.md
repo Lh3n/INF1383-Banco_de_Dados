@@ -38,13 +38,8 @@ saida.txt     # Arquivo gerado para inserção no banco
 ## Como Executar
 
 1. Coloque o arquivo de entrada na mesma pasta do script.
-2. Ajuste os índices das colunas desejadas, se necessário.
-3. Execute:
-
-```bash
-python script.py
-```
-
+2. Ajuste os índices das colunas desejadas no código, se necessário.
+3. Execute o script.py
 4. O arquivo processado será gerado como:
 
 ```text
