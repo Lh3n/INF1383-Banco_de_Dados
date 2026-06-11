@@ -51,3 +51,10 @@ saida.txt
 O objetivo principal deste projeto foi automatizar uma tarefa repetitiva de preparação de dados para um trabalho acadêmico de Banco de Dados.
 
 Além de reduzir significativamente o trabalho manual, o projeto serviu como prática de manipulação de arquivos, tratamento de dados e integração com bancos de dados relacionais.
+
+## Autor
+
+Luiz Henrique Machado da Silva
+
+Graduando em Ciência da Computação – PUC-Rio
+
